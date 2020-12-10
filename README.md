@@ -3,6 +3,7 @@
 
 # Changes
 - You have no longer to press F7 to open the billing menu, because there are only Ticketstations in the PD's to pay the bills.
+- Added AdvancedNotifications for each action
 
 ---
 
