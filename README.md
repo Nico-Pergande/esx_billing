@@ -14,5 +14,5 @@ https://github.com/esx-framework/esx_billing
 ---
 
 # About
-Here you can find my discord: https://discord.gg/bv8Ksss3
+Here you can find my discord: https://discord.gg/r2kFkMx
 Twitch: https://twitch.tv/squid_development
