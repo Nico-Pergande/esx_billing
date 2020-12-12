@@ -35,7 +35,7 @@ function ShowBillsMenu()
 
 		ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'billing',
 		{
-			title    = ('Rechnungen'),
+			title    = (_U'ticketmachine'),
 			align    = 'bottom-right',
 			elements = elements
 		}, function(data, menu)
