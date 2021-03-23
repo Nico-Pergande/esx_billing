@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋. Welcome to another Squid-Development Release!</h1>
+<h1 align="center">Hi 👋. Welcome to Squid-Development!</h1>
+
 # esx_billing
 ---
 
