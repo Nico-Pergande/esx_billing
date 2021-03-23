@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋. Welcome to Squid-Development!</h1>
-<h3 align="center">Today a present you: esx_billing</h3>
+<h3 align="center">Today I present you: esx_billing</h3>
 
 # Changes
 - You have no longer to press F7 to open the billing menu, because there are only Ticketstations in the PD's to pay the bills.
