@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<br>
+
 # What does this script do?
 My version of esx_billing has been edited to improve the RP. It is designed so that each person can pay his bill only where there is a ticket machine, for example. 
 The positions can be set to your own liking in config.lua.
