@@ -77,10 +77,10 @@ Citizen.CreateThread(function()
             end
             
             if distance <= 1.5 then
-                ESX.ShowHelpNotification(('[~y~E~s~] Ticketautomat'))
+                ESX.ShowHelpNotification(('[~y~E~s~] ' .. _U('ticketmachine')))
 
                 if IsControlJustPressed(1, 51) then
-                	ShowBillsMenu()
+					ShowBillsMenu()
                 end
                 ESX.PlayerData = ESX.GetPlayerData()
             end
@@ -92,3 +92,18 @@ Citizen.CreateThread(function()
 		end
 	end
 end)
+
+Citizen.CreateThread(function()
+	for k, v in pairs(Config.Paystation) do
+		if Config.showBlip then
+			local blip = AddBlipForCoord(v.x, v.y, v.z)
+			SetBlipSprite(blip, 525)
+			SetBlipScale(blip, 0.7)
+			SetBlipColour(blip, 48)
+			SetBlipAsShortRange(blip, true)
+			BeginTextCommandSetBlipName('STRING')
+			AddTextComponentSubstringPlayerName(_U('ticketmachine'))
+			EndTextCommandSetBlipName(blip)
+		end
+	end
+end)	
