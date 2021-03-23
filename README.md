@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋. Welcome to Squid-Development!</h1>
-<h3 align="center">Today I present: **esx_billing**</h3>
+<h3 align="center">Today I present: esx_billing</h3>
 
 <br>
 <br>
