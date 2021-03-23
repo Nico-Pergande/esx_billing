@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋. Welcome to Squid-Development!</h1>
-<h3 align="center">Today I present you: esx_billing</h3>
+<h3 align="center">Today I present: esx_billing</h3>
 
-
+--
+# What does this script do?
+My version of esx_billing has been edited to improve the RP. It is designed so that each person can pay his bill only where there is a ticket machine, for example. 
+The positions can be set to your own liking in config.lua.
 
 # Changes
 - You have no longer to press F7 to open the billing menu, because there are only Ticketstations in the PD's to pay the bills.
