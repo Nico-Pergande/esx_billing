@@ -8,6 +8,8 @@
 My version of esx_billing has been edited to improve the RP. It is designed so that each person can pay his bill only where there is a ticket machine, for example. 
 The positions can be set to your own liking in config.lua.
 
+---
+
 # Changes
 - You have no longer to press F7 to open the billing menu, because there are only Ticketstations in the PD's to pay the bills.
 - Added AdvancedNotifications for each action
